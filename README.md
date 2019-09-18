@@ -1,2 +1,2 @@
-# EGRpagemock
-Used to mock up new pages on the EGR site
+# MNE AOR
+Mockup for the new MNE Areas of Research section
